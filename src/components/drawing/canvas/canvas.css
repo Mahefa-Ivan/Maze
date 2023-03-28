@@ -1,0 +1,6 @@
+canvas{
+    border: 1px solid white;
+    width: 60vw;
+    height: calc(60vw / 2);
+    padding: 1rem;
+}
